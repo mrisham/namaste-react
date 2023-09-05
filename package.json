@@ -1,0 +1,21 @@
+{
+  "name": "ep-3-laying-the-foundation",
+  "version": "1.0.0",
+  "description": "ep-3",
+  "scripts": {
+    "start": "parcel build index.html && parcel index.html ",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "mridul",
+  "license": "ISC",
+  "devDependencies": {
+    "package": "^1.0.1",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
